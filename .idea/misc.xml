@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Learn_Android_Studio/2301866763_Marcelino_Budiman/app/src/main/res/drawable/back.xml" value="0.15462962962962962" />
+        <entry key="..\:/Learn_Android_Studio/2301866763_Marcelino_Budiman/app/src/main/res/drawable/borderfortotal.xml" value="0.15462962962962962" />
+        <entry key="..\:/Learn_Android_Studio/2301866763_Marcelino_Budiman/app/src/main/res/layout/activity_drinks.xml" value="0.1" />
+        <entry key="..\:/Learn_Android_Studio/2301866763_Marcelino_Budiman/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Learn_Android_Studio/2301866763_Marcelino_Budiman/app/src/main/res/layout/activity_my_order.xml" value="0.20416666666666666" />
+        <entry key="..\:/Learn_Android_Studio/2301866763_Marcelino_Budiman/app/src/main/res/layout/activity_myorder.xml" value="0.20416666666666666" />
+        <entry key="..\:/Learn_Android_Studio/2301866763_Marcelino_Budiman/app/src/main/res/layout/activity_order.xml" value="0.20416666666666666" />
+        <entry key="..\:/Learn_Android_Studio/2301866763_Marcelino_Budiman/app/src/main/res/layout/activity_order_complete.xml" value="0.19010416666666666" />
+        <entry key="..\:/Learn_Android_Studio/2301866763_Marcelino_Budiman/app/src/main/res/layout/grid_recyclerview.xml" value="0.33" />
+        <entry key="..\:/Learn_Android_Studio/2301866763_Marcelino_Budiman/app/src/main/res/layout/list_view_my_order.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_myorder.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
